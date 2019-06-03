@@ -1,15 +1,15 @@
 # Autotrack [![Build Status](https://travis-ci.org/googleanalytics/autotrack.svg?branch=master)](https://travis-ci.org/googleanalytics/autotrack)
 
-- [Overview](#overview)
+- [General](#overview)
 - [Plugins](#plugins)
-- [Installation and usage](#installation-and-usage)
-  - [Loading autotrack via npm](#loading-autotrack-via-npm)
-  - [Passing configuration options](#passing-configuration-options)
-- [Advanced configuration](#advanced-configuration)
-  - [Custom builds](#custom-builds)
-  - [Using autotrack with multiple trackers](#using-autotrack-with-multiple-trackers)
-- [Browser Support](#browser-support)
-- [Translations](#translations)
+- [Instalación y uso](#installation-and-usage)
+  - [Cargar autotrack via npm](#loading-autotrack-via-npm)
+  - [Pasar opciones de configuración](#passing-configuration-options)
+- [Configuración avanzada](#advanced-configuration)
+  - [Builds personalizados](#custom-builds)
+  - [Uso de autotrack con varios trackers (rastreadores)](#using-autotrack-with-multiple-trackers)
+- [Soporte de navegador](#browser-support)
+- [Traducciones](#translations)
 
 ## Overview
 
